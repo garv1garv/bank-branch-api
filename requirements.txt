@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gunicorn
+strawberry-graphql[fastapi]
+sqlalchemy
+pytest
+httpx
